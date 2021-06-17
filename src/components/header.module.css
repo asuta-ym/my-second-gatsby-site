@@ -1,0 +1,28 @@
+
+.header {
+    margin: 3rem auto;
+    padding: 0 1rem;
+    max-width: 650px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-title {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar {
+    display: flex;
+    list-style: none;
+}
+
+.navbar-item {
+    margin-right: 1rem;
+}
+
+.navbar-item:last-child {
+    margin: 0;
+}
